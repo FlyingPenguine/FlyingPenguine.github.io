@@ -1,1 +1,1 @@
-self.__SSG_MANIFEST=new Set;self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
+self._ssg_MANIFEST=new Set;self._ssg_MANIFEST_CB&&self._ssg_MANIFEST_CB()
